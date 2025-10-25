@@ -3,3 +3,6 @@ venv
 # Временные файлы
 *.log
 *.tmp
+# Кэш Python
+__pycache__/
+*.pyc
